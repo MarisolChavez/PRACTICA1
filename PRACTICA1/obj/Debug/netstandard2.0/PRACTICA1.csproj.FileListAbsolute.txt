@@ -1,0 +1,17 @@
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.csproj.AssemblyReference.cache
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\Views\Home1.xaml.g.cs
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.AssemblyInfoInputs.cache
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.AssemblyInfo.cs
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.csproj.CoreCompileInputs.cache
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.dll
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\refint\PRACTICA1.dll
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.pdb
+D:\MARI\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\PRACTICA1.deps.json
+D:\MARI\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\PRACTICA1.dll
+D:\MARI\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\ref\PRACTICA1.dll
+D:\MARI\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\PRACTICA1.pdb
+D:\MARI\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\XamlC.stamp

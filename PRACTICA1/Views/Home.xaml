@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PRACTICA1.Views.Home">
+
+    <StackLayout>
+        <Label Text="Bienvenido" 
+                HorizontalOptions="Center"
+                TextColor="Aqua" 
+                FontAttributes="Bold"     
+               />
+        <Frame CornerRadius="30">
+            <StackLayout>
+                <Image Source="https://upao.info/biblioteca/img/biblioteca-07%20(1).png" />
+                <Label Text="Usuario" />
+                <Entry PlaceholderColor="Black" Placeholder="Ingrese su usuario"/>
+                <Entry PlaceholderColor="Black" Placeholder="Ingrese su contraseña"/>
+                <Button x:Name="Guardar" Clicked="Guardar_Clicked" Text="Guardar" CornerRadius="20" BackgroundColor="Red" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+    
+    <!--<ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>-->
+</ContentPage>

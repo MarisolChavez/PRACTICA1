@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PRACTICA1.Views.Home1">
+    <Grid ColumnDefinitions="*,*" RowDefinitions="*,*">
+        <Button Grid.Column="1" Text="hola" BackgroundColor="Green" TextColor="Azure" TextTransform="None"/>
+        <Button Grid.Column="0" Text="hola2" BackgroundColor="Yellow" TextColor="Azure" TextTransform="None"/>
+        <Image Grid.Column="0" Grid.Row="1" Source="https://www.comunidadbaratz.com/wp-content/uploads/La-biblioteca-es-inclusion-social-e-igualdad-de-oportunidades.jpg" Aspect="AspectFill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+        <Image Grid.Column="1" Grid.Row="1" Source="https://centrourbano.com/revista/wp-content/uploads/Biblioteca-Palafoxiana-Luis-Lozano-1080x675.png"  Aspect="AspectFill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+
+    </Grid>
+</ContentPage>
